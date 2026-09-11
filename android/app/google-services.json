@@ -1,0 +1,428 @@
+{
+  "project_info": {
+    "project_number": "763403379177",
+    "project_id": "coursesappgenuiswebredaeid",
+    "storage_bucket": "coursesappgenuiswebredaeid.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:a31b3610e47f7d29f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuisfathalla"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:a508f44511bbf15cf2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebTheGist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:9866ab2eddc1b4edf2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebabdalshafy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:d9ac237bfebee475f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebatwan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:97e1327c557848c6f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebbstudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:3a29254fa7671508f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebchem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:84e0387b3d753030f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebdrelziat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:0e6d316a16d526a2f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebeltodi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:53897739b73fb9eaf2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebgaber"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:2763583f413ffa4cf2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebhamdyshabasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:7ba6c9e4cdb60194f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebhamdysrogy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:793e41d786469cc1f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebiraqi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:b520ada0e0f96a8ef2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:ce39de4757572ee7f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebmed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:db291042cface4f1f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebnextgen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:5428074103e6306bf2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebredaeid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:ce8cb0acd58ebf2df2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebshabasy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:7e46a48e291fe9f7f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebtabeeb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:6366b5c6cc590e7cf2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebyasser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:4d94177afd3a9807f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebzein"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:af2564eac98af803f2eb78",
+        "android_client_info": {
+          "package_name": "com.coursesappgenuiswebzmaster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763403379177:android:5540f37de912a7e2f2eb78",
+        "android_client_info": {
+          "package_name": "com.genuiswebme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtQSrN7LAahSBpsjaN3z1o-hjYO79vxOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

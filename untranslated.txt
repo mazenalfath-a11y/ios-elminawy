@@ -1,0 +1,6 @@
+{
+  "en": [
+    "companyCodeNote",
+    "companyCodeNote1"
+  ]
+}
